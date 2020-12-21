@@ -17,7 +17,7 @@ class HSBModel  extends ColorModel{
 class HSLModel  extends ColorModel{
   
 }
-class CMConverter {
+abstruct class CMCo {
   
 }
 
